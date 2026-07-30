@@ -14,10 +14,10 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-2E8B57?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://leetcode.com/your-leetcode" target="_blank"><img src="https://img.shields.io/badge/LeetCode-1A1F29?style=for-the-badge&logo=leetcode&logoColor=D4AF37" /></a>
-<a href="https://github.com/your-username" target="_blank"><img src="https://img.shields.io/badge/GitHub-1A1F29?style=for-the-badge&logo=github&logoColor=F8FAFC" /></a>
+<a href="https://www.linkedin.com/in/mathankumar-k-438834348/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:mathankumark.28aid@gmail.com"><img src="https://img.shields.io/badge/Email-2E8B57?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://leetcode.com/u/mathankumar_k/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-1A1F29?style=for-the-badge&logo=leetcode&logoColor=D4AF37" /></a>
+<a href="https://github.com/MATHANK-074" target="_blank"><img src="https://img.shields.io/badge/GitHub-1A1F29?style=for-the-badge&logo=github&logoColor=F8FAFC" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=D4AF37&style=flat-square" alt="profile views" />
 
@@ -41,15 +41,14 @@ I'm a **Pre-Final Year Artificial Intelligence & Data Science** student focused 
 - 🌐 Building scalable applications with the **MERN Stack**
 - ⚙️ Comfortable owning a project from **model training → API → deployed UI**
 - 🎯 Career goal: **AI Engineer**, with strong Full Stack fundamentals
-- 🧠 Interests: AI/ML, Deep Learning, Computer Vision, Backend Systems, Open Source
-- 💬 Ask me about: Python, React, Node.js, TensorFlow, PyTorch, System Design
-
+- 🧠 Interests: AI/ML, Deep Learning, Backend Systems, Open Source
+- 💬 Ask me about: Python, React, Node.js, TensorFlow, PyTorch
 </td>
 <td width="40%" valign="top" align="center">
 
 ```yaml
 Name:      Mathan Kumar
-Role:      AI Engineer / Full Stack Developer
+Role:      AI Engineer / MERN Stack Developer
 Focus:     AI Systems • MERN Applications
 Status:    Open to Internships & Collaborations
 Location:  India
@@ -81,9 +80,7 @@ Scalable MERN applications
 </td>
 <td align="center" width="25%">
 
-**👁️ Computer Vision**
-<br/>
-Real-time vision pipelines
+
 
 </td>
 <td align="center" width="25%">
@@ -128,7 +125,7 @@ Workflow orchestration with n8n
 
 **Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman&theme=dark" />
 
 </div>
 
@@ -218,39 +215,6 @@ A computer vision system that detects and classifies weld defects to support qua
 <br/>
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
-
-<br/>
-
-## 🏆 Achievements
-
-<table width="100%">
-<tr>
-<td align="center" width="33%">
-
-### 🥇
-**Euphoria Hackathon**
-<br/>
-First Prize
-
-</td>
-<td align="center" width="33%">
-
-### 🥇
-**Kalikrate Business Pitch**
-<br/>
-First Prize
-
-</td>
-<td align="center" width="33%">
-
-### 🥈
-**College Hackathon**
-<br/>
-Runner-Up
-
-</td>
-</tr>
-</table>
 
 <br/>
 
