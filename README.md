@@ -302,10 +302,10 @@ A computer vision system that detects and classifies weld defects to support qua
 
 <div align="center">
 
-<a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Send%20an%20Email-2E8B57?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/your-username" target="_blank"><img src="https://img.shields.io/badge/Follow%20on%20GitHub-1A1F29?style=for-the-badge&logo=github&logoColor=D4AF37" /></a>
-<a href="https://leetcode.com/your-leetcode" target="_blank"><img src="https://img.shields.io/badge/LeetCode%20Profile-1A1F29?style=for-the-badge&logo=leetcode&logoColor=D4AF37" /></a>
+<a href="https://www.linkedin.com/in/mathankumar-k-438834348/" target="_blank"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:mathankumark.28aid@gmail.com"><img src="https://img.shields.io/badge/Send%20an%20Email-2E8B57?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/MATHANK-074" target="_blank"><img src="https://img.shields.io/badge/Follow%20on%20GitHub-1A1F29?style=for-the-badge&logo=github&logoColor=D4AF37" /></a>
+<a href="https://leetcode.com/u/mathankumar_k/" target="_blank"><img src="https://img.shields.io/badge/LeetCode%20Profile-1A1F29?style=for-the-badge&logo=leetcode&logoColor=D4AF37" /></a>
 
 <br/><br/>
 
