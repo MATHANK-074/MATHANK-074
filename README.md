@@ -254,12 +254,12 @@ A computer vision system that detects and classifies weld defects to support qua
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=D4AF37&icon_color=2E8B57&text_color=F8FAFC&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark&hide_border=true&background=0D1117&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideNums=F8FAFC&sideLabels=F8FAFC&dates=6B7280" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username= MATHANK-074&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=D4AF37&icon_color=2E8B57&text_color=F8FAFC&count_private=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MATHANK-074&theme=dark&hide_border=true&background=0D1117&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideNums=F8FAFC&sideLabels=F8FAFC&dates=6B7280" width="49%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=D4AF37&text_color=F8FAFC&langs_count=8" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MATHANK-074&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=D4AF37&text_color=F8FAFC&langs_count=8" width="49%" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=github-compact&bg_color=0D1117&color=D4AF37&line=2E8B57&point=F8FAFC&hide_border=true" width="49%" />
 
 </div>
@@ -269,7 +269,7 @@ A computer vision system that detects and classifies weld defects to support qua
 ### 🏅 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=MATHANK-074&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
 </div>
 
 <br/>
@@ -277,7 +277,7 @@ A computer vision system that detects and classifies weld defects to support qua
 ### 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/your-username/your-username/output/github-snake-dark.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/MATHANK-074/MATHANK-074/output/github-snake-dark.svg" width="100%" />
 </div>
 
 > To generate this animation, add the [Platane/snk](https://github.com/Platane/snk) GitHub Action to your profile repository — it will render automatically once your first workflow run completes.
