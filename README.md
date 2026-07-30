@@ -19,7 +19,7 @@
 <a href="https://leetcode.com/u/mathankumar_k/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-1A1F29?style=for-the-badge&logo=leetcode&logoColor=D4AF37" /></a>
 <a href="https://github.com/MATHANK-074" target="_blank"><img src="https://img.shields.io/badge/GitHub-1A1F29?style=for-the-badge&logo=github&logoColor=F8FAFC" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=D4AF37&style=flat-square" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=MATHANK-074&label=Profile%20Views&color=D4AF37&style=flat-square" alt="profile views" />
 
 </div>
 
@@ -254,13 +254,13 @@ A computer vision system that detects and classifies weld defects to support qua
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username= MATHANK-074&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=D4AF37&icon_color=2E8B57&text_color=F8FAFC&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=MATHANK-074&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=D4AF37&icon_color=2E8B57&text_color=F8FAFC&count_private=true" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MATHANK-074&theme=dark&hide_border=true&background=0D1117&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideNums=F8FAFC&sideLabels=F8FAFC&dates=6B7280" width="49%" />
 
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MATHANK-074&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=D4AF37&text_color=F8FAFC&langs_count=8" width="49%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=github-compact&bg_color=0D1117&color=D4AF37&line=2E8B57&point=F8FAFC&hide_border=true" width="49%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MATHANK-074&theme=github-compact&bg_color=0D1117&color=D4AF37&line=2E8B57&point=F8FAFC&hide_border=true" width="49%" />
 
 </div>
 
