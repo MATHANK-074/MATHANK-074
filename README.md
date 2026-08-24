@@ -9,7 +9,7 @@
 
 ## 📌 About Me
 
-| I'm a **Pre-Final Year Artificial Intelligence & Data Science** student focused on building production-grade AI systems and full-stack products end to end.<br>🔭 Currently deepening expertise in **Machine Learning, Deep Learning & Computer Vision**<br>🌐 Building scalable applications with the **MERN Stack**<br>⚙️ Comfortable owning a project from **model training → API → deployed UI**<br>🎯 Career goal: **AI Engineer**, with strong Full Stack fundamentals<br>🧠 Interests: AI/ML, Deep Learning, Backend Systems, Open Source<br>💬 Ask me about: Python, React, Node.js, TensorFlow, PyTorch | ```yaml Name:      Mathan Kumar Role:      AI Engineer / MERN Stack Developer Focus:     AI Systems • MERN Applications Status:    Open to Internships & Collaborations Location:  India ``` |
+| I'm a **Pre-Final Year Artificial Intelligence & Data Science** student focused on building production-grade AI systems and full-stack products end to end.<br>🔭 Currently deepening expertise in **Machine Learning, Deep Learning & Computer Vision**<br>🌐 Building scalable applications with the **MERN Stack**<br>⚙️ Comfortable owning a project from **model training → API → deployed UI**<br>🎯 Career goal: **AI Engineer**, with strong Full Stack fundamentals<br>🧠 Interests: AI/ML, Deep Learning, Backend Systems, Open Source<br>💬 Ask me about: Python, React, Node.js, TensorFlow, PyTorch | ```NAME : MATHANKUMAR K    ROLE : ASPIRING AI ENGINEER /MERN STACK DEVELOPER FOCUS : AI SYSTEMS • MERN APPLICATION STATUS :    OPEN TO INTERNSHIPS AND COLABRATIONS  LOCATION : INDIA  ``` |
 | ---- | ---- |
 
 [![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
