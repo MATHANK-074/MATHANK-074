@@ -1,22 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0066FF,100:7B2FFF&height=220&section=header&text=MATHAN%20K&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20Full%20Stack%20%7C%20Problem%20Solver&descAlignY=58&descSize=18"/>
+# ⚡ MATHAN K
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=750&lines=Building+Real-World+AI+Solutions;Learning+AI%2FML+Every+Day;Solving+Problems+with+Code;Think+%E2%80%A2+Code+%E2%80%A2+Build+%E2%80%A2+Grow" />
+### AI & Data Science Student  |  Full Stack Developer  |  Problem Solver
 
-<br>
+**B.Tech – Artificial Intelligence & Data Science**
+Kongu Engineering College • 2028
 
-<a href="mailto:mathankumark.28aid@gmail.com">
-<img src="https://img.shields.io/badge/CONTACT-ME-00D9FF?style=for-the-badge&logo=gmail&logoColor=white" />
+<p>
+<a href="mailto:[mathankumark.28aid@gmail.com](mailto:mathankumark.28aid@gmail.com)">
+<img src="https://img.shields.io/badge/Email-mathankumark.28aid%40gmail.com-0A84FF?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
 <a href="https://github.com/MATHANK-074">
-<img src="https://img.shields.io/badge/GITHUB-MATHANK--074-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-MATHANK--074-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+</p>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=MATHANK-074&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+Real-World+Solutions;Learning+AI%2FML+Every+Day;Solving+Problems+with+Code;Think+%E2%80%A2+Code+%E2%80%A2+Build+%E2%80%A2+Grow" />
 
 </div>
 
@@ -24,144 +24,88 @@
 
 <div align="center">
 
-# ⚡ BUILD • LEARN • SOLVE ⚡
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 💻
-
-**BUILDING**
-
-Real-world
-Solutions
-
-</td>
-
-<td align="center" width="33%">
-
-### 🧠
-
-**LEARNING**
-
-AI / ML
-& New Technologies
-
-</td>
-
-<td align="center" width="33%">
-
-### 🚀
-
-**SOLVING**
-
-Complex
-Problems
-
-</td>
-</tr>
-</table>
+### 🚀 BUILDING   •   🧠 LEARNING   •   ⚡ SOLVING
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I'm a **2nd-year B.Tech Artificial Intelligence & Data Science student** at **Kongu Engineering College**, passionate about building intelligent systems and solving real-world problems through technology.
+I'm a **2nd-year B.Tech Artificial Intelligence & Data Science student** passionate about building intelligent systems, solving real-world problems, and creating impactful solutions through technology.
 
-I work across **AI/ML, Full Stack Development, Data Analytics, Cybersecurity, and DSA**. My current goal is to strengthen my fundamentals while continuously building practical projects that combine software engineering and artificial intelligence.
+I enjoy working across **AI/ML, Full Stack Development, Data Analytics, and Problem Solving**. Currently, I'm strengthening my **DSA fundamentals**, exploring AI/ML from fundamentals to real-world applications, and building projects that combine software engineering with intelligent systems.
 
 ```text
-                 ┌───────────────┐
-                 │    MATHAN K    │
-                 └───────┬───────┘
-                         │
-        ┌────────────────┼────────────────┐
-        ↓                ↓                ↓
-      AI / ML         FULL STACK       DSA
-        │                │                │
-        ↓                ↓                ↓
-    Intelligence       Systems        Problem
-    & Prediction       & APIs         Solving
+Think  →  Code  →  Build  →  Learn  →  Grow
 ```
 
 ---
 
-# 🎯 Current Focus
+## 🎯 Current Focus
 
 <table>
 <tr>
-
 <td width="50%">
 
 ### 🤖 AI / ML
 
-`Python` `Machine Learning` `Deep Learning`
+Learning from fundamentals to real-world machine learning systems.
 
-Building knowledge from fundamentals toward real-world AI systems.
+**Focus:** Python • ML • DL • Model Development
 
 </td>
-
 <td width="50%">
 
 ### 📊 Data Analytics
 
-`Power BI` `SQL` `Visualization`
+Turning data into meaningful insights and visualizations.
 
-Learning how to transform raw data into useful insights.
+**Focus:** Power BI • SQL • Data Visualization
 
 </td>
-
 </tr>
 
 <tr>
-
 <td>
 
 ### 🌐 MERN Stack
 
-`MongoDB` `Express` `React` `Node.js`
+Building complete full-stack applications.
 
-Building complete web applications and REST APIs.
+**Focus:** MongoDB • Express • React • Node.js
 
 </td>
-
 <td>
 
 ### 🧠 DSA
 
-`Java` `LeetCode` `GFG`
+Improving problem-solving and algorithmic thinking.
 
-Currently working through Dynamic Programming and Graph Algorithms.
+**Focus:** LeetCode • GFG • Algorithms • DP
 
 </td>
-
 </tr>
 
 <tr>
-
 <td>
 
 ### ⚙️ System Design
 
-`APIs` `Databases` `Architecture`
+Learning how scalable applications are structured.
 
-Learning how scalable applications are designed.
+**Focus:** APIs • Databases • Architecture
 
 </td>
-
 <td>
 
 ### 🔐 Cybersecurity
 
-`Security` `Detection` `Digital Forensics`
+Exploring secure systems and digital investigation.
 
-Exploring secure systems and AI-powered investigation.
+**Focus:** Security • Detection • Forensics
 
 </td>
-
 </tr>
 </table>
 
@@ -174,38 +118,33 @@ Exploring secure systems and AI-powered investigation.
 
 <td width="50%">
 
-## 🏥 Healthcare Cybersecurity
+### 🏥 Healthcare Cybersecurity System
 
-AI-powered healthcare security platform.
-
-**Features**
+AI-powered healthcare security platform featuring:
 
 * Google OAuth 2.0
-* Patient Portal
-* Dashboard
-* Face Recognition
-* Voice Recognition
-* CNN / RNN
+* Patient portal & dashboard
+* Face recognition
+* Voice recognition
+* CNN / RNN based AI
 
-`Python` `FastAPI` `React` `MongoDB`
+**Tech:** `Python` `FastAPI` `React` `MongoDB`
 
 </td>
 
 <td width="50%">
 
-## 🌾 KrishiCare 360
+### 🌾 KrishiCare 360
 
-AI-based smart agriculture platform for small farmers.
+AI-based smart agriculture system designed for small farmers.
 
-**Features**
+* Soil monitoring
+* IoT sensors
+* Crop intelligence
+* AI-based assistance
+* Regional agriculture support
 
-* IoT Sensors
-* Soil Monitoring
-* Crop Intelligence
-* AI Assistance
-* Agriculture Analytics
-
-`MERN` `ESP32` `IoT` `AI`
+**Tech:** `MERN` `IoT` `ESP32` `AI`
 
 </td>
 
@@ -215,47 +154,47 @@ AI-based smart agriculture platform for small farmers.
 
 <td>
 
-## ₿ Bitcoin Traffic Analysis
+### ₿ Bitcoin Traffic Analysis
 
-AI-powered Bitcoin transaction anomaly detection and digital-forensics platform.
+AI-powered digital-forensics platform for Bitcoin transaction analysis.
 
-**Features**
+* Transaction anomaly detection
+* Synthetic blockchain dataset
+* Graph-based investigation
+* Forensic dashboard
 
-* Transaction Analysis
-* Anomaly Detection
-* Synthetic Dataset
-* Investigation Dashboard
-* Forensic Analysis
-
-`Python` `ML` `FastAPI` `React`
+**Tech:** `Python` `ML` `FastAPI` `React`
 
 </td>
 
 <td>
 
-## ⚙️ Predictive Maintenance Copilot
+### ⚙️ Predictive Maintenance Knowledge Copilot
 
-AI-powered predictive maintenance and knowledge retrieval system.
+AI-powered predictive maintenance and knowledge retrieval platform.
 
-**Features**
+* XGBoost prediction
+* ChromaDB vector search
+* Knowledge retrieval
+* FastAPI backend
+* Next.js dashboard
 
-* XGBoost Prediction
-* ChromaDB
-* Vector Search
-* Knowledge Retrieval
-* FastAPI
-* Next.js Dashboard
-
-`FastAPI` `Next.js` `XGBoost` `ChromaDB`
+**Tech:** `FastAPI` `Next.js` `XGBoost` `ChromaDB`
 
 </td>
 
 </tr>
 </table>
 
+<div align="center">
+
+### 🔎 More projects coming soon...
+
+</div>
+
 ---
 
-# 🛠️ Technology Universe
+# 🛠️ Tech Stack
 
 <div align="center">
 
@@ -263,35 +202,23 @@ AI-powered predictive maintenance and knowledge retrieval system.
 
 <img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
 
-<br><br>
+### Frontend & Backend
 
-### Development
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi" />
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,mongodb,mysql" />
+### Databases & Tools
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,docker,linux" />
 
-### Tools & Platforms
+### Data & AI
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
 
 <br><br>
 
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/AI%20%2F%20ML-00D9FF?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/Data%20Analytics-7B2FFF?style=for-the-badge&logo=googleanalytics&logoColor=white" />
-
-</div>
-
----
-
-# 🧊 3D GitHub Universe
-
-<div align="center">
-
-### 🌌 Contribution Galaxy
-
-<img src="https://github-profile-3d-contrib.vercel.app/profile/MATHANK-074/animate/3d-night-view.svg" width="100%" />
+<img src="https://img.shields.io/badge/Machine%20Learning-00D9FF?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Data%20Analytics-6C63FF?style=for-the-badge&logo=googleanalytics&logoColor=white" />
 
 </div>
 
@@ -305,7 +232,11 @@ AI-powered predictive maintenance and knowledge retrieval system.
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MATHANK-074&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<br><br>
+</div>
+
+<br>
+
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=MATHANK-074&theme=tokyonight&hide_border=true" />
 
@@ -315,126 +246,98 @@ AI-powered predictive maintenance and knowledge retrieval system.
 
 # 🏆 Achievements
 
-<div align="center">
-
 <table>
-
 <tr>
 
-<td align="center">
+<td align="center" width="25%">
 
-# 🥈
+## 🥈
 
-### EUPHORIA'26
+**EUPHORIA'26**
 
-**2nd Prize**
-
+2nd Prize
 Healthcare Cybersecurity
 
 </td>
 
-<td align="center">
+<td align="center" width="25%">
 
-# 🥇
+## 🥇
 
-### Kalikrate'25 / KPR
+**Kalikrate'25 / KPR**
 
-**1st Prize**
-
+1st Prize
 Business Pitch
 
 </td>
 
-<td align="center">
+<td align="center" width="25%">
 
-# 🥈
+## 🥈
 
-### College Chatbot
+**College Chatbot**
 
-**2nd Prize**
-
+2nd Prize
 AI Chatbot Project
 
 </td>
 
-<td align="center">
+<td align="center" width="25%">
 
-# 🔥
+## 🔥
 
-### LeetCode
+**LeetCode**
 
-**100-Day**
-
+100-Day
 Streak
 
 </td>
 
 </tr>
-
 </table>
 
-</div>
-
 ---
 
-# 🧠 DSA Journey
+# 🧠 Currently Learning
 
 <div align="center">
+
+`Dynamic Programming`   •  
+`Dijkstra Algorithm`   •  
+`MERN Stack`   •  
+`AI / ML`   •  
+`Data Analytics`   •  
+`Power BI`
+
+</div>
+
+### 📚 DSA Journey
 
 ```text
-                    DSA JOURNEY
-                         │
-                         ▼
-                    Fibonacci
-                         │
-                         ▼
-                    Coin Change
-                         │
-                         ▼
-                   Unique Paths
-                         │
-                         ▼
-                       LIS
-                         │
-                         ▼
-                  Graph Algorithms
-                         │
-                         ▼
-                     Dijkstra
-                         │
-                         ▼
-                    NEXT LEVEL
+Fibonacci
+    ↓
+Coin Change
+    ↓
+Unique Paths
+    ↓
+Longest Increasing Subsequence
+    ↓
+Graph Algorithms
+    ↓
+Dijkstra
+    ↓
+More to come...
 ```
 
-</div>
-
 ---
 
-# 📚 Currently Learning
+# 💡 My Development Philosophy
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Dynamic%20Programming-7B2FFF?style=for-the-badge&logo=leetcode&logoColor=white" />
+> **"Small Steps. Big Dreams."**
 
-<img src="https://img.shields.io/badge/Dijkstra%20Algorithm-0066FF?style=for-the-badge&logo=algolia&logoColor=white" />
-
-<img src="https://img.shields.io/badge/MERN%20Stack-00A86B?style=for-the-badge&logo=mongodb&logoColor=white" />
-
-<img src="https://img.shields.io/badge/AI%20%2F%20ML-00D9FF?style=for-the-badge&logo=tensorflow&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Data%20Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-
-</div>
-
----
-
-# 💡 Development Philosophy
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001F3F,50:003B66,100:0066FF&height=120&section=header&text=Think%20%20%E2%80%A2%20%20Code%20%20%E2%80%A2%20%20Build%20%20%E2%80%A2%20%20Grow&fontSize=28&fontColor=ffffff&animation=fadeIn" />
-
-### **"Small Steps. Big Dreams."**
+### Think • Code • Build • Learn • Grow
 
 </div>
 
@@ -444,10 +347,38 @@ Streak
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MATHANK-074&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20Contribution%20Journey" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MATHANK-074&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
 ---
 
-# 🛰️ My Developer
+# 📫 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/MATHANK-074">
+<img src="https://img.shields.io/badge/GitHub-MATHANK--074-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="mailto:[mathankumark.28aid@gmail.com](mailto:mathankumark.28aid@gmail.com)">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
+**Building today. Learning every day.**
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=MATHANK-074&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" />
+
+<br><br>
+
+### ⭐ If you find my projects interesting, consider giving them a star!
+
+</div>
