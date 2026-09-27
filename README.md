@@ -1,8 +1,8 @@
 <div align="center">
 
-# ⚡ MATHAN K
+# MATHANKUMAR K
 
-### AI & Data Science Student  |  Full Stack Developer  |  Problem Solver
+### AI & Data Science Student  |  Aspiring MERN Stack Developer  |  Problem Solver
 
 **B.Tech – Artificial Intelligence & Data Science**
 Kongu Engineering College • 2028
@@ -32,7 +32,7 @@ Kongu Engineering College • 2028
 
 ## 👨‍💻 About Me
 
-I'm a **2nd-year B.Tech Artificial Intelligence & Data Science student** passionate about building intelligent systems, solving real-world problems, and creating impactful solutions through technology.
+I'm a **3nd-year B.Tech Artificial Intelligence & Data Science student** passionate about building intelligent systems, solving real-world problems, and creating impactful solutions through technology.
 
 I enjoy working across **AI/ML, Full Stack Development, Data Analytics, and Problem Solving**. Currently, I'm strengthening my **DSA fundamentals**, exploring AI/ML from fundamentals to real-world applications, and building projects that combine software engineering with intelligent systems.
 
