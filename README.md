@@ -257,8 +257,6 @@ AI-powered predictive maintenance and knowledge retrieval platform.
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=MATHANK-074&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" />
-
 <br><br>
 
 ### ⭐ If you find my projects interesting, consider giving them a star!
