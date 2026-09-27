@@ -24,17 +24,20 @@ Kongu Engineering College • 2028
 
 <div align="center">
 
-### 🚀 BUILDING   •   🧠 LEARNING   •   ⚡ SOLVING
+### 🚀 BUILDING    •  🧠 LEARNING   •   ⚡ SOLVING 
 
 </div>
 
 ---
 
+
 ## 👨‍💻 About Me
 
-I'm a **3nd-year B.Tech Artificial Intelligence & Data Science student** passionate about building intelligent systems, solving real-world problems, and creating impactful solutions through technology.
+**3rd-year AI & Data Science student** building at the intersection of **AI, software, and data**.
 
-I enjoy working across **AI/ML, Full Stack Development, Data Analytics, and Problem Solving**. Currently, I'm strengthening my **DSA fundamentals**, exploring AI/ML from fundamentals to real-world applications, and building projects that combine software engineering with intelligent systems.
+I turn ideas into **real-world projects**, strengthen my **DSA & problem-solving skills**, and explore **AI/ML, Full Stack Development & Data Analytics**.
+
+> **Think • Build • Solve • Evolve 🚀**
 
 ```text
 Think  →  Code  →  Build  →  Learn  →  Grow
@@ -228,9 +231,6 @@ AI-powered predictive maintenance and knowledge retrieval platform.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=MATHANK-074&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MATHANK-074&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -244,130 +244,12 @@ AI-powered predictive maintenance and knowledge retrieval platform.
 
 ---
 
-# 🏆 Achievements
 
-<table>
-<tr>
-
-<td align="center" width="25%">
-
-## 🥈
-
-**EUPHORIA'26**
-
-2nd Prize
-Healthcare Cybersecurity
-
-</td>
-
-<td align="center" width="25%">
-
-## 🥇
-
-**Kalikrate'25 / KPR**
-
-1st Prize
-Business Pitch
-
-</td>
-
-<td align="center" width="25%">
-
-## 🥈
-
-**College Chatbot**
-
-2nd Prize
-AI Chatbot Project
-
-</td>
-
-<td align="center" width="25%">
-
-## 🔥
-
-**LeetCode**
-
-100-Day
-Streak
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🧠 Currently Learning
 
 <div align="center">
 
-`Dynamic Programming`   •  
-`Dijkstra Algorithm`   •  
-`MERN Stack`   •  
-`AI / ML`   •  
-`Data Analytics`   •  
-`Power BI`
 
-</div>
-
-### 📚 DSA Journey
-
-```text
-Fibonacci
-    ↓
-Coin Change
-    ↓
-Unique Paths
-    ↓
-Longest Increasing Subsequence
-    ↓
-Graph Algorithms
-    ↓
-Dijkstra
-    ↓
-More to come...
-```
-
----
-
-# 💡 My Development Philosophy
-
-<div align="center">
-
-> **"Small Steps. Big Dreams."**
-
-### Think • Code • Build • Learn • Grow
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MATHANK-074&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-# 📫 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/MATHANK-074">
-<img src="https://img.shields.io/badge/GitHub-MATHANK--074-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="mailto:[mathankumark.28aid@gmail.com](mailto:mathankumark.28aid@gmail.com)">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br><br>
-
-**Building today. Learning every day.**
+**Consistent is the key to success**
 
 </div>
 
